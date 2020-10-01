@@ -1,6 +1,8 @@
-# App for shayari, jokes & many more 
+# An Android App for shayari, jokes & many more 
+
 
 ## More than 10k+ original shayari, Jokes and many more for fun
+
 
 ### Features :
      1. Online app
